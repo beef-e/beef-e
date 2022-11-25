@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+- Based in Bari 📍
+- Studying at I.T.T. Panetti 🏫
+- Younger than you Think 👶
+
+---
+🛠️Languages:
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" title="HTML"/></div>
+
 
 <!--
 **beef-e/beef-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
