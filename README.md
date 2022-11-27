@@ -1,13 +1,14 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
+:mag_right: About me:
 - Based in Bari 📍
 - Studying at I.T.T. Panetti 🏫
 - Younger than you Think 👶
 - Robotics :mechanical_arm: and sports :person_fencing: passionate
-- Open to learning :man_technologist:
+- Always learning :man_technologist:
 
 ---
-🛠️Languages:
+🛠️Languages and tools:
 <div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" title="HTML"/>
@@ -20,8 +21,13 @@
 
 </div>
 
-#### Reach me out!
+### <img src="https://media.giphy.com/media/lT4pm6CAFHJ46yDKQB/giphy.gif" width="40px"/> My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beef-e&hide=python&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beef-e&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+---
+
+#### Reach me out!
 
 <!--
 **beef-e/beef-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
