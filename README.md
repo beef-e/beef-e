@@ -1,6 +1,6 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-:mag_right: About me:
+## :mag_right: About me:
 - Based in Bari 📍
 - Studying at I.T.T. Panetti 🏫
 - Younger than you Think 👶
