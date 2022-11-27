@@ -8,7 +8,7 @@
 - Always learning :man_technologist:
 
 ---
-🛠️Languages and tools:
+### 🛠️Languages and tools:
 <div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML" title="HTML"/>
@@ -28,6 +28,9 @@
 ---
 
 #### Reach me out!
+- <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title="Discord" alt="Discord" width="15" height="15"/> &nbsp; Add me on Discord: @Beef-e#5544
+- <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15" height="15"/> &nbsp; Follow me on Twitter: @Beef_E_
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" title="Telegram" alt="Telegram" width="15" height="15"/> &nbsp; Write me on Telegram: @Jbeef_e
 
 <!--
 **beef-e/beef-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
