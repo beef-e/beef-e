@@ -6,6 +6,7 @@
 - Younger than you Think 👶
 - Robotics :mechanical_arm: and sports :person_fencing: passionate
 - Always learning :man_technologist:
+- Co-founder of @MinaeCosmoeBiffi
 
 ---
 ### 🛠️Languages and tools:
