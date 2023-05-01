@@ -9,7 +9,7 @@
 - Co-founder of @MinaeCosmoeBiffi
 - Currently learning: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> & C++ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C plus plus" width="20" height="20"/>
 - CyberChallenge IT student [POLIBA]
-- I (try to) use Arch, btw <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="25" height="25"/>
+- I use Arch, btw <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>
 
 ---
 ### 🛠️Languages and tools:
@@ -23,12 +23,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C plus plus" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
+ 
 
 
 </div>
 
 ### <img src="https://media.giphy.com/media/lT4pm6CAFHJ46yDKQB/giphy.gif" width="40px"/> My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beef-e&hide=python&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beef-e&hide=python&theme=transparent&count_private=false&layout=compact&hide_border=true&title_color=70a5fd)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beef-e&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
