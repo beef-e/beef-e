@@ -7,7 +7,7 @@
 - Robotics :mechanical_arm: and sports :person_fencing: passionate
 - Always learning :man_technologist:
 - Co-founder of @MinaeCosmoeBiffi
-- Currently learning: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> & C++ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C plus plus" width="20" height="20"/>
+- Currently learning: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>
 - CyberChallenge IT student [POLIBA]
 - I use Arch, btw <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>
 
