@@ -28,6 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
  
 
 
@@ -40,7 +41,7 @@
 ---
 
 #### Reach me out!
-- <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title="Discord" alt="Discord" width="15" height="15"/> &nbsp; Add me on Discord: @Beef-e#5544
+- <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" title="Discord" alt="Discord" width="15" height="15"/> &nbsp; Add me on Discord: @beef_e
 - <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15" height="15"/> &nbsp; Follow me on Twitter: @Beef_E_
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" title="Telegram" alt="Telegram" width="15" height="15"/> &nbsp; Write me on Telegram: @Jbeef_e
 
