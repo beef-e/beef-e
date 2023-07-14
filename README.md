@@ -29,7 +29,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL/Mariadb" alt="MySQL/Mariadb" width="40" height="40"/>
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" title="MySQL/Mariadb" alt="MySQL/Mariadb" width="40" height="40"/>
 
 
 </div>
