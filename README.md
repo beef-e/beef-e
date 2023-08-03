@@ -31,6 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL/Mariadb" alt="MySQL/Mariadb" width="40" height="40"/>
 <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" title="MySQL/Mariadb" alt="MySQL/Mariadb" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>
 
 
 </div>
