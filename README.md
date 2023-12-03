@@ -1,6 +1,6 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-### :mag_right: About me:
+### 🔎About me:
 - Based in Bari 📍
 - Studying at I.T.T. Panetti 🏫
 - Younger than you Think 👶
@@ -8,7 +8,7 @@
 - Always learning :man_technologist:
 - Co-founder of @MinaeCosmoeBiffi
 - Currently learning: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> - Ruby <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="20" height="20"/> - Rails <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="20" height="20"/>
-- CyberChallenge IT student [POLIBA]
+- CyberChallenge 2022/2023 [POLIBA]
 - I use Arch, btw <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>
 
 ---
