@@ -26,6 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="NeoVim" alt="NeoVim" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
