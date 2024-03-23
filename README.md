@@ -6,7 +6,6 @@
 - Younger than you Think 👶
 - Robotics :mechanical_arm: and sports :person_fencing: passionate
 - Always learning :man_technologist:
-- Co-founder of @MinaeCosmoeBiffi
 - Currently learning: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> - Ruby <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="20" height="20"/> - Rails <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="20" height="20"/>
 - CyberChallenge 2022/2023 [POLIBA]
 - I use Arch, btw <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>
